@@ -1,0 +1,19 @@
+# Ignore everything in .idea
+.idea
+
+*.pyo
+*.pyc
+.sass-cache/
+npm-debug.log
+node_modules/
+venv/
+
+arhitektuurkaks/settings/local.py
+arhitektuurkaks/db.sqlite3
+arhitektuurkaks/assets/
+arhitektuurkaks/media/
+arhitektuurkaks/static/bower_components/
+
+arhitektuurkaks/.cache
+arhitektuurkaks/.coverage
+arhitektuurkaks/cover/

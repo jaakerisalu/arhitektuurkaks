@@ -1,0 +1,25 @@
+[16:32 @ 15/05/16]: Getting a list of all TV Series
+[16:41 @ 15/05/16]: Getting a list of all TV Series
+[16:41 @ 15/05/16]: Getting a list of all TV Series
+[16:42 @ 15/05/16]: Getting a list of all TV Series
+[16:43 @ 15/05/16]: Getting a list of all TV Series
+[16:44 @ 15/05/16]: Getting a list of all TV Series
+[16:46 @ 15/05/16]: Getting a list of all TV Series
+[16:58 @ 15/05/16]: Getting Detail view of series: House of Cards
+[16:58 @ 15/05/16]: Getting a list of all TV Series
+[17:00 @ 15/05/16]: Getting a list of all TV Series
+[17:00 @ 15/05/16]: Editing of series: House of Cards
+[17:01 @ 15/05/16]: Editing of series: House of Cards
+[17:01 @ 15/05/16]: Getting a list of all TV Series
+[17:02 @ 15/05/16]: Editing of series: House of Cardzo
+[17:02 @ 15/05/16]: Getting a list of all TV Series
+[17:03 @ 15/05/16]: Editing of series: Vikings
+[17:03 @ 15/05/16]: Editing of series: Vikings
+[17:04 @ 15/05/16]: Editing of series: Vikings
+[17:04 @ 15/05/16]: Getting a list of all TV Series
+[17:22 @ 15/05/16]: API access of series: House of Cardzo
+[17:23 @ 15/05/16]: API access of series: House of Cardzo
+[17:23 @ 15/05/16]: API error: Object not found
+[17:25 @ 15/05/16]: API error: no 'id' parameter
+[17:25 @ 15/05/16]: API access of series: Game of Thrones
+[17:35 @ 15/05/16]: Getting a list of all TV Series

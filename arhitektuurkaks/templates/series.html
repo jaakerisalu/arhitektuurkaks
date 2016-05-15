@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% load static %}  
+
+
+{% block content %}
+    <div>
+        <a href="{% static 'log.txt' %}">LOG</a>
+    </div>
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    ID
+                </th>
+                <th>
+                    NIMI
+                </th>
+                <th>
+                    HOOAEG
+                </th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for series in object_list %}
+                <tr>
+                    <td>
+                        {{ series.id }}
+                    </td>
+                    <td>
+                        {{ series.name }}
+                    </td>
+                    <td>
+                        {{ series.season }}
+                    </td>
+                    <td>
+                        <a href="{% url 'series-detail' series.id %}">LÄHEMALT</a>
+                    </td>
+                    <td>
+                        <a href="{% url 'series-edit' series.id %}">MUUDA</a>
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock content %}
+

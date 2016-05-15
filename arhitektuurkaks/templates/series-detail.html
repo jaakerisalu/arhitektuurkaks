@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    ID
+                </th>
+                <th>
+                    NIMI
+                </th>
+                <th>
+                    HOOAEG
+                </th>
+                <th>
+                    KIRJELDUS
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+                <tr>
+                    <td>
+                        {{ object.id }}
+                    </td>
+                    <td>
+                        {{ object.name }}
+                    </td>
+                    <td>
+                        {{ object.season }}
+                    </td>
+                    <td>
+                        {{ object.description }}
+                    </td>
+                    <td>
+                        <a href="{% url 'series' %}">TAGASI</a>
+                    </td>
+                </tr>
+        </tbody>
+    </table>
+{% endblock content %}
+
