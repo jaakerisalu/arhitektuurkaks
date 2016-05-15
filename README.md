@@ -8,7 +8,7 @@ I tried to use Django (besides logging) to the fullest on this one
 
 I went for the easy way out: A log file in a publicly accessible directory (static) and adding entries manually
 
-```
+```python
     def fake_log(string):
         with open("**FILE LOCATION**", "a") as text_file:
             print("[{}]: {}".format(datetime.datetime.now().strftime("%H:%M @ %d/%m/%y"), string), file=text_file)
