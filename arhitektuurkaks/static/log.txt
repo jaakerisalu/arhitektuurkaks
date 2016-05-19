@@ -35,3 +35,69 @@
 [08:59 @ 19/05/16]: Getting Detail view of series: Game of Thrones
 [08:59 @ 19/05/16]: Getting a list of all TV Series
 [09:00 @ 19/05/16]: API access of series: Vikings
+[09:01 @ 19/05/16]: Getting a list of all TV Series
+[09:58 @ 19/05/16]: API access of series: Game of Thrones
+[09:58 @ 19/05/16]: API error: Object not found
+[09:58 @ 19/05/16]: API error: Object not found
+[09:58 @ 19/05/16]: API error: Object not found
+[10:00 @ 19/05/16]: Getting a list of all TV Series
+[10:00 @ 19/05/16]: Getting Detail view of series: House of Cardzo
+[10:00 @ 19/05/16]: Getting a list of all TV Series
+[10:00 @ 19/05/16]: Editing of series: House of Cardzo
+[10:00 @ 19/05/16]: Getting a list of all TV Series
+[10:00 @ 19/05/16]: Getting Detail view of series: House of Cards
+[10:00 @ 19/05/16]: Getting a list of all TV Series
+[10:01 @ 19/05/16]: Editing of series: House of Cards
+[10:02 @ 19/05/16]: Editing of series: House of Cards
+[10:02 @ 19/05/16]: Getting Detail view of series: House of Cards
+[10:02 @ 19/05/16]: Getting a list of all TV Series
+[10:02 @ 19/05/16]: Getting Detail view of series: Game of Thrones
+[10:02 @ 19/05/16]: Getting a list of all TV Series
+[10:12 @ 19/05/16]: Getting a list of all TV Series
+[10:12 @ 19/05/16]: Getting a list of all TV Series
+[10:12 @ 19/05/16]: API access of series: Vikings
+[10:12 @ 19/05/16]: API access of series: Game of Thrones
+[10:13 @ 19/05/16]: Getting a list of all TV Series
+[10:13 @ 19/05/16]: API access of series: House of Cards
+[10:15 @ 19/05/16]: Getting a list of all TV Series
+[10:15 @ 19/05/16]: API access of series: House of Cards
+[10:15 @ 19/05/16]: API access of series: Game of Thrones
+[10:15 @ 19/05/16]: API access of series: Vikings
+[10:17 @ 19/05/16]: Getting a list of all TV Series
+[10:17 @ 19/05/16]: Getting a list of all TV Series
+[10:17 @ 19/05/16]: API access of series: House of Cards
+[10:17 @ 19/05/16]: API access of series: Game of Thrones
+[10:17 @ 19/05/16]: API access of series: House of Cards
+[10:18 @ 19/05/16]: Getting a list of all TV Series
+[10:18 @ 19/05/16]: API access of series: House of Cards
+[10:18 @ 19/05/16]: API access of series: Game of Thrones
+[10:19 @ 19/05/16]: Getting a list of all TV Series
+[10:19 @ 19/05/16]: API access of series: House of Cards
+[10:19 @ 19/05/16]: API access of series: House of Cards
+[10:19 @ 19/05/16]: API access of series: Game of Thrones
+[10:19 @ 19/05/16]: API access of series: Vikings
+[10:19 @ 19/05/16]: API access of series: House of Cards
+[10:19 @ 19/05/16]: API access of series: Game of Thrones
+[10:19 @ 19/05/16]: API access of series: Vikings
+[10:20 @ 19/05/16]: Getting a list of all TV Series
+[10:20 @ 19/05/16]: API access of series: House of Cards
+[10:20 @ 19/05/16]: Getting a list of all TV Series
+[10:20 @ 19/05/16]: API access of series: House of Cards
+[10:20 @ 19/05/16]: Editing of series: House of Cards
+[10:20 @ 19/05/16]: Getting a list of all TV Series
+[10:21 @ 19/05/16]: API access of series: House of Cards
+[10:21 @ 19/05/16]: API access of series: House of Cards
+[10:21 @ 19/05/16]: API access of series: Game of Thrones
+[10:21 @ 19/05/16]: API access of series: Vikings
+[10:21 @ 19/05/16]: API access of series: House of Cards
+[10:23 @ 19/05/16]: Getting a list of all TV Series
+[10:24 @ 19/05/16]: API access of series: House of Cards
+[10:24 @ 19/05/16]: API access of series: Game of Thrones
+[10:24 @ 19/05/16]: API access of series: Vikings
+[10:24 @ 19/05/16]: API access of series: House of Cards
+[10:24 @ 19/05/16]: Editing of series: House of Cards
+[10:24 @ 19/05/16]: Getting a list of all TV Series
+[10:24 @ 19/05/16]: API access of series: House of Cards
+[10:24 @ 19/05/16]: API access of series: Game of Thrones
+[10:24 @ 19/05/16]: API access of series: Vikings
+[10:24 @ 19/05/16]: API access of series: House of Cards

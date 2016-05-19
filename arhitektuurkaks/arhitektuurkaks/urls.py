@@ -16,6 +16,7 @@ urlpatterns = [
     url(r'^s/(?P<series_id>\d+)/$', TvSeriesDetailView.as_view(), name='series-detail'),
     url(r'^s/(?P<series_id>\d+)/edit/$', TvSeriesEditView.as_view(), name='series-edit'),
     url(r'^api/', views.get_object, name='series-api'),
+    url(r'^s/api/', views.get_object, name='series-api'),
 
     url(r'^tagauks/', include(admin.site.urls)),
 ]

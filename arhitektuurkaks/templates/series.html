@@ -35,7 +35,7 @@
                         {{ series.season }}
                     </td>
                     <td>
-                        <a href="{% url 'series-detail' series.id %}">LÄHEMALT</a>
+                        <a class="get-description" href="" data-id="{{ series.id }}">LÄHEMALT</a>
                     </td>
                     <td>
                         <a href="{% url 'series-edit' series.id %}">MUUDA</a>
@@ -44,5 +44,10 @@
             {% endfor %}
         </tbody>
     </table>
+
+    <div id="description">
+        <div id="description-title"></div>
+        <div id="description-content"></div>
+    </div>
 {% endblock content %}
 

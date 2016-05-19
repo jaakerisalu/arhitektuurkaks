@@ -68,6 +68,11 @@
     {% compress js %}
         <script src="{% static 'js/bootstrap.js' %}"></script>
         <script src="{% static 'js/main.js' %}"></script>
+        <script>
+            $('document').ready(function(){
+                initDescriptionListener();
+            });
+        </script>
     {% endcompress %}
     {% block scripts %}{% endblock scripts %}
   </body>
