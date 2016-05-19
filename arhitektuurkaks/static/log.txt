@@ -23,3 +23,15 @@
 [17:25 @ 15/05/16]: API error: no 'id' parameter
 [17:25 @ 15/05/16]: API access of series: Game of Thrones
 [17:35 @ 15/05/16]: Getting a list of all TV Series
+[08:58 @ 19/05/16]: Getting a list of all TV Series
+[08:58 @ 19/05/16]: Getting Detail view of series: Game of Thrones
+[08:58 @ 19/05/16]: Getting a list of all TV Series
+[08:58 @ 19/05/16]: Getting Detail view of series: Vikings
+[08:58 @ 19/05/16]: Getting a list of all TV Series
+[08:58 @ 19/05/16]: Editing of series: Game of Thrones
+[08:59 @ 19/05/16]: Getting a list of all TV Series
+[08:59 @ 19/05/16]: Getting Detail view of series: House of Cardzo
+[08:59 @ 19/05/16]: Getting a list of all TV Series
+[08:59 @ 19/05/16]: Getting Detail view of series: Game of Thrones
+[08:59 @ 19/05/16]: Getting a list of all TV Series
+[09:00 @ 19/05/16]: API access of series: Vikings
